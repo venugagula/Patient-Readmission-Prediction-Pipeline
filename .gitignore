@@ -1,0 +1,17 @@
+# Ignore data files and sensitive content
+data/
+*.csv
+*.json
+*.parquet
+*.log
+
+# Ignore system files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore Power BI temp
+*.pbix~
