@@ -60,3 +60,12 @@ patient-readmission-pipeline/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+### 📊 Power BI Dashboard Previews
+
+#### 📌 Dashboard Overview
+![Dashboard Overview](reports/screenshots/dashboard_overview.png)
+
+#### 📌 Risk Metrics and Classification
+![Dashboard Metrics](reports/screenshots/dashboard_metrics.png)
+
