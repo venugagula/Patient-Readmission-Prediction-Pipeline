@@ -64,7 +64,7 @@ patient-readmission-pipeline/
 ### 📊 Power BI Dashboard Previews
 
 #### 📌 Dashboard Overview
-![Dashboard Overview](reports/screenshots/dashboard_overview.png)
+!dashboard_metrics.png(reports/screenshots/dashboard_overview.png)
 
 #### 📌 Risk Metrics and Classification
 ![Dashboard Metrics](reports/screenshots/dashboard_metrics.png)
